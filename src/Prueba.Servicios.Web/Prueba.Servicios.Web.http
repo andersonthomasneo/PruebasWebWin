@@ -1,0 +1,6 @@
+@Prueba.Servicios.Web_HostAddress = http://localhost:5077
+
+GET {{Prueba.Servicios.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
