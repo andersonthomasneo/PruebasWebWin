@@ -1,5 +1,9 @@
 # PruebasWebWin
 
+**Prueba.Servicios.Web** es el proyecto con los servicios web.
+
+**Prueba.Servicios.Win** es el proyecto con el servicio windows.
+
 Si el proyecto de inicio es Prueba.Servicios.Web
 [http://localhost:5001/weatherforecast](http://localhost:5001/weatherforecast)
 
